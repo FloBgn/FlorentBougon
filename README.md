@@ -4,7 +4,7 @@
 <ul class="navbar">
   <li><a href="https://www.linkedin.com/in/florentbougon/">Mon profil LinkedIn</a>
   <li><a href="https://www.youtube.com/watch?v=rTVjnBo96Ug">Ma chanson préférée</a>
-  <li><a href="https://fr.wikipedia.org/wiki/Nikola_Karabatic">Mon sportif préférée</a>
+  <li><a href="https://fr.wikipedia.org/wiki/Nikola_Karabatic">Mon sportif préféré</a>
   <li><a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d2221513-Reviews-Pho_Bida_Viet_Nam-Paris_Ile_de_France.html">Mon resto Parisien préféré</a>
     <li><a href="https://www.facebook.com/pauline.martin.73744">Ma personne préférée</a>
     <!--
