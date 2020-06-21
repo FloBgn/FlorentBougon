@@ -22,5 +22,5 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/FloBgn/FlorentBougon/master/bg.jpg" title="Photographie de J. Duchemin">
+<BODY BACKGROUND="https://raw.githubusercontent.com/FloBgn/FlorentBougon/master/bg.jpg">
 
