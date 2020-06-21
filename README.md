@@ -22,12 +22,6 @@
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/pile-of-poo_1f4a9.png" class="center">
 
-
-				</body>
-
-
+<br>
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FloBgn/FlorentBougon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
