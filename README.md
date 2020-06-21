@@ -6,7 +6,7 @@
   <li><a href="ville.html">Ma ville</a>
   <li><a href="liens.html">Liens</a>
     
-<a href="https://youtu.be/JYEaAehLoQs?t=43"> 
+<p><a href="https://youtu.be/JYEaAehLoQs?t=43"> 
 <i>Yelling Goat</i></a>
 <p>Voici un paragraphe.
 <p><b>Texte en gras</b>
