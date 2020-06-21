@@ -22,6 +22,6 @@
 
 <br>
 
-<img src="http://www.monsite.com/mon -adorable-chien.jpg">
+<img src="http://exemple.com/duchemin.png" title="Photographie de J. Duchemin">
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FloBgn/FlorentBougon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
