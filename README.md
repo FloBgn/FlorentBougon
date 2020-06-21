@@ -21,5 +21,7 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/pile-of-poo_1f4a9.png" class="center">
 
 <br>
+
+<img src="http://www.monsite.com/mon -adorable-chien.jpg">
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FloBgn/FlorentBougon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
