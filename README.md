@@ -22,7 +22,7 @@
 
 <br>
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FloBgn/FlorentBougon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+body {
 padding-left: 12em;
 font-family: Georgia, "Times New Roman",
           Times, serif;
@@ -61,3 +61,4 @@ h1
           SunSans-Regular, sans-serif }
 }
 
+}
