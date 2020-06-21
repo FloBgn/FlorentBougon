@@ -1,4 +1,4 @@
-## Bonjour à tous, bienvenue sur le site de présentation de Florent Bougon. Enjoy !</h1>
+## Bonjour à tous, bienvenue sur le site de présentation de Florent Bougon. Enjoy !
 <!-- création du menu -->
 <ul class="navbar">
   <li><a href="index.html">Home page</a>
@@ -6,7 +6,8 @@
   <li><a href="ville.html">Ma ville</a>
   <li><a href="liens.html">Liens</a>
     
-<a href="https://youtu.be/JYEaAehLoQs?t=43"> <i>Yelling Goat</i></a>
+<a href="https://youtu.be/JYEaAehLoQs?t=43"> 
+<i>Yelling Goat</i></a>
 <p>Voici un paragraphe.
 <p><b>Texte en gras</b>
 <p><i>Texte en italique</i>
