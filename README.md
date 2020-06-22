@@ -40,8 +40,7 @@
 
    
  <p><a href="https://youtu.be/varlFj0W6UA?t=17">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/pile-of-poo_1f4a9.png" class="center" width=40 height=40 title="Oserez-vous cliquer ?" > 
-  </a>
+  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/pile-of-poo_1f4a9.png" class="center" width=40 height=40 title="Oserez-vous cliquer ?"></a>
   <br>
   
   <!--
