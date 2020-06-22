@@ -46,7 +46,7 @@
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/pile-of-poo_1f4a9.png" class="center">
 
 
-<!-- Bouton retour du haut --> <p><a href="#haut">Up</a>
+<!-- Bouton retour du haut --> <p><a href="#haut"><img src ="FlecheHaut.png" alt ="bouton haut de page"/> </a>
 
 <!-- <BODY BACKGROUND="https://raw.githubusercontent.com/FloBgn/FlorentBougon/master/22780506_10210401997755299_7688944094781845826_n.jpg"> -->
 
