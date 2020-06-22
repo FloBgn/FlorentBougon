@@ -5,8 +5,7 @@
   <li><a href="https://www.youtube.com/watch?v=rTVjnBo96Ug">Ma chanson préférée</a>
   <li><a href="https://fr.wikipedia.org/wiki/Nikola_Karabatic">Mon sportif préféré</a>
   <li><a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d2221513-Reviews-Pho_Bida_Viet_Nam-Paris_Ile_de_France.html">Mon resto Parisien préféré </a>
-  <li><a href="#formation">Formation</a>
-    <p><a href="#dernieres-nouvelles">Les dernières nouvelles</a>
+  <li><a href="#dernieres-nouvelles">Les dernières nouvelles</a>
      <br>
      <br>
      <br>
@@ -25,12 +24,7 @@
      <br>
      <br>
      <br>
-<p><div id="dernieres-nouvelles">Les nouvelles</div>
-<p><balise id="#formation"> Voici ma formation </balise>
-
- 
-
-
+    <p><div id="dernieres-nouvelles">Les nouvelles</div>
  <!--   <li><a href="https://www.facebook.com/pauline.martin.73744">Ma personne préférée</a> -->
    
  <!-- <p><a href="https://youtu.be/JYEaAehLoQs?t=43"> 
