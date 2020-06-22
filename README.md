@@ -1,4 +1,7 @@
 ## Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
+<!-- Bouton de retour de haut de page -->
+<a id="haut"></a>
+
 <!-- création du menu -->
 <ul class="navbar">
   <li><a href="https://www.linkedin.com/in/florentbougon/">Mon profil LinkedIn</a>
@@ -42,7 +45,7 @@
 <br>
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/198/pile-of-poo_1f4a9.png" class="center">
 
-
+<a href="#haut">haut de page</a>
 
 <!-- <BODY BACKGROUND="https://raw.githubusercontent.com/FloBgn/FlorentBougon/master/22780506_10210401997755299_7688944094781845826_n.jpg"> -->
 
