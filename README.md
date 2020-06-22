@@ -8,24 +8,24 @@
   <li><a href="#experiences">Mes expériences professionelles</a>
   <li><a href="#hobbies">Mes hobbies</a>  
      <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
     <p><div id="intro">Introduction</div>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
     <p><div id="formation">Ma formation</div>
     <p><div id="experiences">Mes experiences</div>
     <p><div id="hobbies">Mes hobbies</div>
