@@ -58,7 +58,7 @@
 
 
 
-<!-- Bouton retour du haut avec image de la flèche --> <p><a href="#haut"><img src ="FlecheHaut2.png" alt ="bouton haut de page" width=70 height=70 /></a>
+<!-- Bouton retour du haut avec image de la flèche --> <p><a href="#haut"><img src ="FlecheHaut2.png" alt ="bouton haut de page" title="Retour haut de page" /></a>
 
 <!-- <BODY BACKGROUND="bg.jpg"> -->
 
