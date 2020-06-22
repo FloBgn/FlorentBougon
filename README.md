@@ -12,8 +12,21 @@
      <br>
      <br>
      <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
      
 <p><balise id="#formation"> Voici ma formation </balise>
+ <p><a href="#formation">Voici ma formation bis</a>
 
 
  <!--   <li><a href="https://www.facebook.com/pauline.martin.73744">Ma personne préférée</a> -->
