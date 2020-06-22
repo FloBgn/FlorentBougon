@@ -1,6 +1,7 @@
 <!-- Bouton de retour de haut de page -->
 <a id="haut"></a>
 ## Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
+<!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
   <li><a href="#intro">Introduction</a>
   <li><a href="#formation">Ma formation</a>
@@ -36,10 +37,12 @@
   <p><a href="https://www.youtube.com/watch?v=rTVjnBo96Ug">Ma chanson préférée</a>
   <p><a href="https://fr.wikipedia.org/wiki/Nikola_Karabatic">Mon sportif préféré</a>
   <p><a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d2221513-Reviews-Pho_Bida_Viet_Nam-Paris_Ile_de_France.html">Mon resto Parisien préféré </a>
- <!--   <li><a href="https://www.facebook.com/pauline.martin.73744">Ma personne préférée</a> -->
+
    
- <!-- <p><a href="https://youtu.be/JYEaAehLoQs?t=43"> 
-<i>Yelling Goat</i></a>
+ <p><a href="https://youtu.be/varlFj0W6UA?t=17"><i>Oserez-vous cliquer ?</i></a>
+  <br>
+  
+  <!--
 <p>Voici un paragraphe.
 <p><b>Texte en gras</b>
 <p><i>Texte en italique</i>
