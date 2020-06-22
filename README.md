@@ -5,7 +5,7 @@
   <li><a href="https://www.youtube.com/watch?v=rTVjnBo96Ug">Ma chanson préférée</a>
   <li><a href="https://fr.wikipedia.org/wiki/Nikola_Karabatic">Mon sportif préféré</a>
   <li><a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d2221513-Reviews-Pho_Bida_Viet_Nam-Paris_Ile_de_France.html">Mon resto Parisien préféré </a>
-   <li><a href="README.md#formation">Formation</a>
+   <li><a href="#formation">Formation</a>
      <br>
      <br>
      <br>
