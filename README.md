@@ -1,5 +1,6 @@
 <!-- Bouton de retour de haut de page -->
 <a id="haut"></a>
+<img class="right" src ="FloMontmorency.jpg" alt ="Photo de présentation"/>
 ## Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
