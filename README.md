@@ -1,6 +1,6 @@
 <!-- Bouton de retour de haut de page -->
 <a id="haut"></a>
-<img class="right" src ="FloMontmorency.jpg" alt ="Photo de présentation"/>
+<img class="right" src ="FloMontmorency.JPG" alt ="Photo de présentation"/>
 ## Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
@@ -9,13 +9,13 @@
   <li><a href="#experiences">Mes expériences professionelles</a>
   <li><a href="#hobbies">Mes hobbies</a>  
      <br>
-    <p><div id="intro">Introduction</div>
+    <p><div id="intro"><u>Introduction</u></div>
     Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.
-    <p><div id="formation">Ma formation</div>
+    <p><div id="formation"><u>Ma formation</u></div>
     Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.
-    <p><div id="experiences">Mes experiences</div>
+    <p><div id="experiences"><u>Mes experiences</u></div>
     Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.
-    <p><div id="hobbies">Mes hobbies</div>
+    <p><div id="hobbies"><u>Mes hobbies</u></div>
     Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.
     <br>
   <!-- création du menu supplémentaire-->
