@@ -39,7 +39,14 @@
   <p><a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d2221513-Reviews-Pho_Bida_Viet_Nam-Paris_Ile_de_France.html">Mon resto Parisien préféré </a>
 
    
- <p><a href="https://youtu.be/varlFj0W6UA?t=17"><img src="pilepoo.png" class="center" title="Oserez-vous cliquer ?" height="40" width="40" /><br><span><font size="-2">Oserez-vous cliquer ?</font></span></a> 
+ <p><a href="https://youtu.be/varlFj0W6UA?t=17">
+  <figure>
+    <img align="left" src="pilepoo.png" class="center" title="Oserez-vous cliquer ?" height="40" width="40" /> <br>
+    <figcaption><font size="-2">Oserez-vous cliquer ?</font></figcaption>
+  </figure>
+  </a> 
+  
+  
   
   
   <!--
@@ -56,7 +63,7 @@
 
 
 
-<!-- Bouton retour du haut avec image de la flèche --> <p><a href="#haut"><img src ="FlecheHaut2.png" alt ="bouton haut de page" title="Retour haut de page" height="70" width="70" /></a>
+<!-- Bouton retour du haut avec image de la flèche --> <p><a href="#haut"><img align="middle" src ="FlecheHaut2.png" alt ="bouton haut de page" title="Retour haut de page" height="70" width="70" /></a>
 
 <!-- <BODY BACKGROUND="bg.jpg"> -->
 
