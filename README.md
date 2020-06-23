@@ -1,21 +1,7 @@
 <!-- Bouton de retour de haut de page -->
 <a id="haut"></a>
 <!-- <img class="right" src ="FloMontmorency.JPG" alt ="Photo de présentation"/> -->
-  <div class="container">
-  <img src="FloMontmorency.JPG" alt="Snow">
-  <div class="top-right">Top Right</div>
-</div>
-<!-- Container holding the image and the text *-->
-.container {
-  position: relative;
-  text-align: center;
-  color: white;  
-  <!--  Top right text -->
-.top-right {
-  position: absolute;
-  top: 8px;
-  right: 16px;
-}
+
 ## Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
