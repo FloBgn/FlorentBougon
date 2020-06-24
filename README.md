@@ -1,13 +1,14 @@
 <html>
-	<head>
-    </head>
+	<head>  </head>
+	
+<body>
 <!-- Bouton de retour de haut de page -->
 <a id="haut"></a>
 <!-- <img class="right" src ="FloMontmorency.JPG" alt ="Photo de présentation"/> -->
 
 <h1>Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.</h1>
 
-<body>
+
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
   <li><a href="#intro">Introduction</a>
@@ -16,7 +17,10 @@
   <li><a href="#hobbies">Mes hobbies</a>  
      <br>
     <p><div id="intro"><b>Introduction</b></div>
-    Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.
+<p> Pas le temps ? Ou bien pour tout autre raison vous souhaitez aller à l'essentiel ? Je vous invite à aller consulter ce petit <a href="#résumé">résumé</a>.
+<p> Une introduction ? Je dirais plutôt une génèse semblable à celle d'un héros Grec !
+<p> Trève de plaisanteries :)
+<p> Je suis originaire du Nord de la France
     <p><div id="formation"><b>Ma formation</b></div>
     Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus. Etenim omnes artes, quae ad humanitatem pertinent, habent quoddam commune vinculum, et quasi cognatione quadam inter se continentur.
     <p><div id="experiences"><b>Mes experiences</b></div>
@@ -54,5 +58,7 @@
 <br> -->
 <br>
 <!-- Bouton retour du haut avec image de la flèche --> <p><a href="#haut"><img align="middle" src ="FlecheHaut2.png" alt ="bouton haut de page" title="Retour haut de page" height="70" width="70" /></a>
+	
+<p><div id="résumé"><b>Petit résumé :</b></div>
 
 <!-- <BODY BACKGROUND="bg.jpg"> -->
