@@ -8,7 +8,7 @@
 
 <h1>Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.</h1>
 
-<p> Pas le temps ? Ou bien pour tout autre raison vous souhaitez aller à l'essentiel ? Je vous invite à aller consulter ce petit <a href="#résumé">résumé</a>.
+<p> Pas le temps ? Vous souhaitez aller à l'essentiel ? Je vous invite à aller consulter ce petit <a href="#résumé">résumé</a>.
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
   <li><a href="#intro">Introduction</a>
