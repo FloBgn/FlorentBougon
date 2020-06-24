@@ -1,12 +1,13 @@
 <html>
 	<head>
-    <body>
+    
 <!-- Bouton de retour de haut de page -->
 <a id="haut"></a>
 <!-- <img class="right" src ="FloMontmorency.JPG" alt ="Photo de présentation"/> -->
 
 ## Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
 </head>
+<body>
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
   <li><a href="#intro">Introduction</a>
@@ -34,17 +35,14 @@
   <p><a href="https://www.tripadvisor.fr/Restaurant_Review-g187147-d2221513-Reviews-Pho_Bida_Viet_Nam-Paris_Ile_de_France.html">Mon resto Parisien préféré </a>
     <br>
 <br>
-   <br>
-    
+   <br> 
  <p><a href="https://youtu.be/varlFj0W6UA?t=17">
   <figure>
     <img align="left" src="pilepoo.png" class="center" title="Oserez-vous cliquer ?" height="40" width="40" /> <br>
     <figcaption><font size="-2">Oserez-vous cliquer ?</font></figcaption>
   </figure>
   </a> 
-  
-
-  
+ 
   <!--
 <p>Voici un paragraphe.
 <p><b>Texte en gras</b>
@@ -54,14 +52,7 @@
 <address><p><sup>Texte en exposant</sup>
 <p>Fait le 5 avril 2004 par moi.
 <br> -->
-
 <br>
-
-
-
 <!-- Bouton retour du haut avec image de la flèche --> <p><a href="#haut"><img align="middle" src ="FlecheHaut2.png" alt ="bouton haut de page" title="Retour haut de page" height="70" width="70" /></a>
 
 <!-- <BODY BACKGROUND="bg.jpg"> -->
-</body>
-</html>
-
