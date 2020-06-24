@@ -6,7 +6,9 @@
 <!-- <img class="right" src ="FloMontmorency.JPG" alt ="Photo de présentation"/> -->
 
 <h1>Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.</h1>
-
+<frameset rows="20%,*">
+		<frame src="README.md">
+</frameset>
 <body>
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
