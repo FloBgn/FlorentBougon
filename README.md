@@ -1,8 +1,13 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+    <body>
 <!-- Bouton de retour de haut de page -->
 <a id="haut"></a>
 <!-- <img class="right" src ="FloMontmorency.JPG" alt ="Photo de présentation"/> -->
 
 ## Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
+</head>
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
 <ul class="menuprincipal">
   <li><a href="#intro">Introduction</a>
@@ -58,4 +63,6 @@
 <!-- Bouton retour du haut avec image de la flèche --> <p><a href="#haut"><img align="middle" src ="FlecheHaut2.png" alt ="bouton haut de page" title="Retour haut de page" height="70" width="70" /></a>
 
 <!-- <BODY BACKGROUND="bg.jpg"> -->
+</body>
+</html>
 
