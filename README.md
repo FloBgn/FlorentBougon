@@ -5,7 +5,7 @@
 <a id="haut"></a>
 <!-- <img class="right" src ="FloMontmorency.JPG" alt ="Photo de présentation"/> -->
 
-## Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
+### Bonjour, bienvenue sur le site de présentation de Florent Bougon. J'espère que vous trouverez toutes les informations que vous cherchez, et même plus ! Bonne visite.
 </head>
 <body>
 <!-- menu principal qui va servir à rediriger vers les sections du site -->
